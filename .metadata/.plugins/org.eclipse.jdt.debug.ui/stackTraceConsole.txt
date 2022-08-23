@@ -1,0 +1,55 @@
+io.cucumber.junit.UndefinedStepException: The step 'User is on the facebook Url or webpage' and 9 other step(s) are undefined.
+You can implement these steps using the snippet(s) below:
+
+@Given("User is on the facebook Url or webpage")
+public void user_is_on_the_facebook_url_or_webpage() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("User should enter the {string} and {string}")
+public void user_should_enter_the_and(String string, String string2) {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("User should click the login button")
+public void user_should_click_the_login_button() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("Select the location")
+public void select_the_location() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("Select Hotel")
+public void select_hotel() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("Select Room Type")
+public void select_room_type() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("Given Number Of Room")
+public void given_number_of_room() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("Check In Date and Check Out Date")
+public void check_in_date_and_check_out_date() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("Number Of Adult In Room and Child In Room")
+public void number_of_adult_in_room_and_child_in_room() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Then("Verify the lLogin Details")
+public void verify_the_l_login_details() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+
